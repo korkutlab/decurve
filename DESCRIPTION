@@ -1,0 +1,18 @@
+Package: decurve
+Title: Dose Effect Curve
+Version: 0.0.0.9000
+Authors@R: 
+    c(person("Xubin", 
+             "Li",
+             role = c("aut", "cre"),
+             email = "xli27@mdanderson.org"),
+      person("Anil", 
+             "Korkut",
+             role = c("aut", "cph"),
+             email = "akorkut@mdanderson.org"))
+Description: Calculate and plot dose effect curve for drug combination experiments.
+License: Apache License, Version 2.0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
